@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Core App Colors -->
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="primaryGreen">#4CAF50</color>
+    <color name="primaryBlue">#2196F3</color>
+    <color name="primaryText">#212121</color>
+    <color name="background">#F5F5F5</color>
+
+    <!-- Status Colors -->
+    <color name="red_600">#E53935</color>
+    <color name="green_600">#2E7D32</color>
+    <color name="blue_600">#1976D2</color>
+
+    <!-- Grey Scale -->
+    <color name="grey_50">#FAFAFA</color>
+    <color name="grey_200">#EEEEEE</color>
+    <color name="grey_300">#E0E0E0</color>
+    <color name="grey_400">#BDBDBD</color>
+    <color name="grey_500">#9E9E9E</color>
+    <color name="grey_600">#757575</color>
+    <color name="grey_700">#616161</color>
+    <color name="grey_800">#424242</color>
+    <color name="grey_900">#212121</color>
+
+    <!-- Purple Colors -->
+    <color name="purple_200">#BB86FC</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="purple_700">#3700B3</color>
+
+    <!-- Teal Colors -->
+    <color name="teal_200">#03DAC5</color>
+    <color name="teal_700">#018786</color>
+</resources>
